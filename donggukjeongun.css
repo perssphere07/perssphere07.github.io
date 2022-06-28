@@ -1,0 +1,86 @@
+body {
+	background-image: url('./resource/baekdu-mountain.png');
+	background-attachment: fixed;
+	background-position: 50% 50%;
+	background-size: cover;
+}
+
+.main {
+	width: 100vw;
+	height: 369px;
+	padding: 65px 16px 16px 16px;
+	display: flex;
+	align-items: stretch;
+}
+
+.chineseCharacter {
+	float: left;
+	width: 50%;
+	height: 256px;
+	margin: 16px 2px 16px 16px;
+}
+
+input {
+	background-color: #0000007F;
+	border: 2px solid #0000003F;
+	color: #FFFFFF;
+	width: 100%;
+	height: 100%;
+	font-size: 48px;
+	outline: none;
+	text-align: center;
+	align-items: center;
+	border-radius: 16px 4px 4px 16px;
+	backdrop-filter: blur(16px);
+	transition: all 0.1s ease;
+	box-shadow: 0 0 0px #0000007F;
+}
+
+input:hover {
+	background-color: #0000003F;
+	box-shadow: 0 0 16px #0000007F;
+}
+
+input:active {
+	border-color: #1F1F1F7F;
+	box-shadow: 0 0 8px #0000007F;
+}
+
+input:active:hover {
+	border-color: #1F1F1F7F;
+	box-shadow: 0 0 8px #0000007F;
+}
+
+input:focus {
+	border-color: #00BFFF;
+	box-shadow: 0 0 8px #0000007F;
+}
+
+.hangeul {
+	background-color: #0000007F;
+	border: 2px solid #0000003F;
+	border-radius: 4px 16px 16px 4px;
+	backdrop-filter: blur(16px);
+	float: right;
+	width: 50%;
+	height: 256px;
+	margin: 16px 16px 16px 2px;
+	font-size: 48px;
+	display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.descriptiontext {
+	margin: 0px 32px 16px 32px;
+	display: flex;
+	justify-content: space-between;
+}
+
+/* .descriptiontext:first-child {
+	float: left;
+}
+
+.descriptiontext:last-child {
+	float: right;
+} */

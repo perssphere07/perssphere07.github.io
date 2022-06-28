@@ -17,11 +17,21 @@
 	src: url('resource/SourceHanSansKR-VF.ttf') format('truetype');
 }
 
+@font-face {
+	font-family: 'Source Han Sans TW VF';
+	src: url('resource/SourceHanSansTW-VF.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Source Han Sans JP VF';
+	src: url('resource/SourceHanSansJP-VF.ttf') format('truetype');
+}
+
 * {
 	margin: 0;
 	padding: 0;	
 	box-sizing: border-box;
-	font-family: 'Inter', 'Source Han Sans KR VF';
+	font-family: 'Inter', 'Source Han Sans KR VF', 'Source Han Sans TW VF', 'Source Han Sans JP VF';
 	color: white;
 }
 
