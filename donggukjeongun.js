@@ -90,11 +90,18 @@ function buildHangeul(data, index){
 }
 
 function chineseCharacterIntoHangeul(data, value) {
-	for (var i = 0; i < data.donggukjeongun.length; i++) {
+	let output = "";
+	let first = false;
+	for (let i = 0; i < data.donggukjeongun.length; i++) {
 		if (data.donggukjeongun[i].chineseCharacter.includes(value)) {
-			return buildHangeul(data, i);
+			if (first === true) {
+				output += ", ";
+			}
+			output += buildHangeul(data, i);
+			first = true;
 		}
 	}
+	return output;
 }
 
 function printHangeul() {
