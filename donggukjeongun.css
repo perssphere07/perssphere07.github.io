@@ -76,11 +76,3 @@ input:focus {
 	display: flex;
 	justify-content: space-between;
 }
-
-/* .descriptiontext:first-child {
-	float: left;
-}
-
-.descriptiontext:last-child {
-	float: right;
-} */
