@@ -1,57 +1,151 @@
-.headwrap {
+body {
+	display: block;
+	padding: 64px 15%;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	height: 64px;
+	margin-bottom: 16px;
+}
+
+.header > .title > .icon {
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	margin-right: 32px;
+}
+
+.header > .title > .text {
+	display: inline-block;
+	line-height: 64px;
+	vertical-align: top;
+	height: 64px;
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+.header > .link {
+	height: 64px;
+}
+
+.header > .link > a {
+	width: 64px;
+	height: 100%;
+	line-height: 64px;
+	padding: 16px;
+}
+
+.header > .link > a > img {
+	width: 32px;
+	height: 32px;
+	line-height: 48px;
+	vertical-align: middle;
+	border-radius: 16px;
+	transition: all 0.5s ease;
+}
+
+.header > .link > a > img:hover {
+	box-shadow: 0 0 16px #000000FF;
+	transition: all 0.5s ease;
+}
+
+.image {
+	display: block;
 	position: relative;
 	width: 100%;
-	height: 305px;
+	height: 256px;
+	overflow: hidden;
+	border-radius: 8px;
+	margin-bottom: 16px;
 }
 
-.headtext {
-	position: absolute;
-	left: 50%;
-	top: 55%;
-	transform: translate(-50%, -50%);
-	font-family: 'Open Sans';
-	font-weight: 600;
-	font-size: xx-large;
-	z-index: 0;
+.image .headpicture {
+	height: 256px;
+	line-height: 256px;
+	text-align: center;
 }
 
-.coheadtext {
-	position: absolute;
-	right: 0%;
-	bottom: 0%;
-	transform: translate(-100%, -100%);
-	font-family: 'Open Sans';
-	font-weight: 200;
-	font-size: medium;
-	z-index: 1;
+.image .background {
+	display: block;
+}
+
+.image .foreground {
+	display: inline-block;
+	position: relative;
+	height: 192px;
+	width: auto;
+	margin: auto;
+	text-align: center;
+	vertical-align: middle;
 }
 
 .headpicture img {
-	object-fit: cover;
 	position: absolute;
+	object-fit: cover;
 	width: 100%;
-	height: 305px;
-	z-index: -1;
+	height: 100%;
 }
 
-.maintext {
-	margin-top: 32px;
-	margin-left: 10vw;
-	margin-right: 10vw;
-	margin-bottom: 128px;
-	overflow: auto;
+.experiments > span.title {
+	font-size: x-large;
+	font-weight: bold;
 }
 
-.ghlink a {
-	transition: all 0.1s ease;
+.experiments > ul > li {
+	display: block;
+	margin-bottom: 2px;
 }
 
-.ghlink a:hover {
-	color: #00BFFF;
-	transition: all 0.1s ease;
+.experiments > ul > li a {
+	display: flex;
+	transition: all 0.2s ease;
+	background-color: #FFFFFF0F;
+	border-radius: 4px;
+	width: 100%;
+	height: 128px;
+	padding: 16px 40px;
 }
 
-.ghlink a:active {
-	color: #008FBF;
-	transition: all 0.1s ease;
+.experiments > ul > li a:hover {
+	transition: all 0.2s ease;
+	background-color: #FFFFFF1F;
+}
+
+.experiments > ul > li:first-child a {
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+
+.experiments > ul > li:last-child a {
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+.experiments > ul > li a > .icon {
+	width: 64px;
+	height: 96px;
+	margin-right: 24px;
+	padding: 16px 0px;
+}
+
+.experiments > ul > li a > .text {
+	display: block;
+	line-height: 48px;
+}
+
+.experiments .title {
+	display: block;
+	line-height: 48px;
+	height: 48px;
+	font-size: large;
+}
+
+.experiments .description {
+	display: block;
+	line-height: 48px;
+	height: 48px;
+	font-size: normal;
+	color: #FFFFFFBF;
 }
