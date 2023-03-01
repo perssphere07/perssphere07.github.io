@@ -35,8 +35,8 @@ function buildHangeul(data, index){
 		case "eu":     string += "\u1173"; break;
 		case "ii":     string += "\u1175"; break;
 		case "araeai": string += "\u11A1"; break;
-		case "eui":    string += "\u1174"; break;
-		case "oi":     string += "\u116C"; break;
+		case "ui":    string += "\u1174"; break;
+		case "oe":     string += "\u116C"; break;
 		case "ae":     string += "\u1162"; break;
 		case "wae":    string += "\u116B"; break;
 		case "yy":     string += "\u1171"; break;
@@ -52,7 +52,7 @@ function buildHangeul(data, index){
 		case "yu":     string += "\u1172"; break;
 		case "eo":     string += "\u1165"; break;
 		case "yeo":    string += "\u1167"; break;
-		case "weo":    string += "\u116F"; break;
+		case "wo":    string += "\u116F"; break;
 		case "yuyeo":  string += "\u1191"; break;
 	}
 	switch (data.donggukjeongun[index].jongseong) {
