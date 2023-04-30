@@ -1,0 +1,62 @@
+body {
+	display: block;
+	padding: 16px;
+}
+
+.back {
+	display: flex;
+	width: 64px;
+	height: 64px;
+	padding: 16px;
+	border-radius: 32px;
+	transition: all 0.2s ease;
+}
+
+.back:hover {
+	border-radius: 32px;
+	background-color: #FFFFFF1F;
+	transition: all 0.2s ease;
+}
+
+.back > a {
+	height: 32px;
+}
+
+.main {
+	margin: 32px;
+	padding: 32px;
+	border-radius: 16px;
+	background-color: #212529;
+	display: flex;
+	align-items: stretch;
+}
+
+#periodictable_main {
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#periodictable_ln_an {
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+td {
+	display: table-cell;
+	border-radius: 8px;
+	height: 50px;
+}
+
+.descriptiontext {
+	margin: 0px 32px 16px 32px;
+	display: flex;
+	justify-content: space-between;
+}
