@@ -12746,6 +12746,598 @@
 			"jongseong": "alveolar",
 			"tone": "entering",
 			"chineseCharacter": [ "雪", "說", "刷" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "araea",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [ "詞", "祠", "柌", "辭", "辭", "漦" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "araea",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"寺", "嗣", "飤", "飼", "食", "飴", "事"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "araea",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [
+				"兕", "似", "佛", "姒", "㚶", "耜", "梩", "杞",
+				"䎣", "枱", "祀", "汜", "巳", "士", "仕", "戺",
+				"俟", "竢", "竢", "逘", "涘", "騃"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"茬", "茌", "匙", "㮛", "堤", "提", "禔", "媞",
+				"鍉", "時", "塒", "鰣"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"示", "謚", "謚", "豉", "嗜", "耆", "呩", "視",
+				"侍", "寺", "䦙", "蒔"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [
+				"是", "諟", "惿", "媞", "䟗", "氏", "視", "市",
+				"恃", "㤄", "舐", "話", "狧"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"繩", "澠", "譝", "憴", "乘", "椉", "塍", "𣎒",
+				"堘", "塖", "戎", "承", "𢌼", "𢪻", "氶", "丞"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"乘", "椉", "𠅞", "嵊", "賸", "甸"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "none",
+			"tone": "entering",
+			"chineseCharacter": [
+				"食", "蝕", "𤸤", "寔", "湜", "㵓", "殖", "埴",
+				"植", "置"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "alveolar",
+			"tone": "level",
+			"chineseCharacter": [
+				"神", "旦", "辰", "晨", "宸", "麎", "臣"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "alveolar",
+			"tone": "departing",
+			"chineseCharacter": [
+				"燼", "賮", "進", "藎", "盡", "酳", "愼"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "alveolar",
+			"tone": "rising",
+			"chineseCharacter": [ "腎", "蜃", "蜄", "脤" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "alveolar",
+			"tone": "entering",
+			"chineseCharacter": [ "實", "寔" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "bilabial",
+			"tone": "level",
+			"chineseCharacter": [
+				"尋", "潯", "潭", "襑", "鄩", "鬵", "灊", "鐔",
+				"鱏", "蟫", "燖", "燂", "燅", "諶", "煁", "忱",
+				"愖", "橬"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "bilabial",
+			"tone": "departing",
+			"chineseCharacter": [ "甚" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "bilabial",
+			"tone": "rising",
+			"chineseCharacter": [ "甚", "葚", "黮" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ii",
+			"jongseong": "bilabial",
+			"tone": "entering",
+			"chineseCharacter": [
+				"習", "褶", "槢", "襲", "隰", "十", "什", "拾"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yui",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"隨", "隋", "遺", "垂", "陲", "倕", "腄", "誰",
+				"唯", "譙", "脽"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yui",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"遂", "燧", "鐩", "澻", "㴚", "襚", "璲", "繸",
+				"隧", "隊", "旞", "彗", "篲", "穗", "穟", "瑞",
+				"睡", "倕"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yui",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [ "菙" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ye",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [ "栘" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ye",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"誓", "逝", "遰", "遞", "筮", "噬", "澨", "澨",
+				"忕"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yuye",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [ "篲" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "oo",
+			"jongseong": "mieumieung",
+			"tone": "level",
+			"chineseCharacter": [ "巢", "巢", "轈", "輠", "漅" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yo",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [ "鱅", "慵", "松", "訟" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yo",
+			"jongseong": "velar",
+			"tone": "departing",
+			"chineseCharacter": [ "頌", "𩔜", "誦", "訟" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yo",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"續", "藚", "俗", "贖", "蜀", "蠋", "蠾", "鐲",
+				"韣", "襡", "䙱", "襩", "屬"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yo",
+			"jongseong": "mieumieung",
+			"tone": "level",
+			"chineseCharacter": [ "韶", "招", "昭", "巶", "苕", "詔" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yo",
+			"jongseong": "mieumieung",
+			"tone": "departing",
+			"chineseCharacter": [ "邵", "召", "邵", "劭", "紹" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yo",
+			"jongseong": "mieumieung",
+			"tone": "rising",
+			"chineseCharacter": [ "紹", "佋", "袑" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "aa",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [ "槎", "楂", "苴" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "aa",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [ "乍", "䄍", "蓌" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "aa",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [ "槎", "柞" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "aa",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [ "牀", "床" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "aa",
+			"jongseong": "velar",
+			"tone": "departing",
+			"chineseCharacter": [ "狀" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ya",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"邪", "耶", "斜", "䔑", "闍", "堵", "蛇", "蛇",
+				"鉈"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ya",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"謝", "榭", "激", "射", "射", "麝", "貰"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ya",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [ "䄬", "社" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ya",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [
+				"詳", "祥", "翔", "鴹", "庠", "常", "裳", "嘗",
+				"償", "尙"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ya",
+			"jongseong": "velar",
+			"tone": "departing",
+			"chineseCharacter": [ "尙", "上", "償" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ya",
+			"jongseong": "velar",
+			"tone": "rising",
+			"chineseCharacter": [
+				"象", "像", "襐", "潒", "蟓", "橡", "上"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "ya",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [ "杓", "汋", "勺" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "uu",
+			"jongseong": "mieumieung",
+			"tone": "level",
+			"chineseCharacter": [ "愁" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"殊", "銖", "洙", "㼡", "茱", "殳", "杸"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [ "樹", "澍", "裋" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [ "豎", "侸", "裋", "樹" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [ "崇", "崈", "漴" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"孰", "熟", "塾", "淑", "婌", "琡", "淑"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "alveolar",
+			"tone": "level",
+			"chineseCharacter": [
+				"旬", "徇", "侚", "伨", "循", "馴", "紃", "巡",
+				"循", "脣", "䐇", "脤", "漘", "浱", "純", "莼",
+				"淳", "醇", "䣩", "錞", "惇", "敦", "焞", "鶉",
+				"蓴"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "alveolar",
+			"tone": "departing",
+			"chineseCharacter": [ "殉", "徇", "侚", "順", "揗" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "alveolar",
+			"tone": "rising",
+			"chineseCharacter": [ "盾", "楯", "揗" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "alveolar",
+			"tone": "entering",
+			"chineseCharacter": [ "術", "述", "秫", "朮", "沭", "潏" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "mieumieung",
+			"tone": "level",
+			"chineseCharacter": [
+				"囚", "游", "游", "湭", "慒", "湭", "讎", "售",
+				"詶", "醻", "酬", "魗"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "mieumieung",
+			"tone": "departing",
+			"chineseCharacter": [
+				"岫", "䜬", "袖", "褎", "授", "綬", "壽", "售",
+				"讐"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yu",
+			"jongseong": "mieumieung",
+			"tone": "rising",
+			"chineseCharacter": [ "受", "授", "綬", "壽" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [ "徐", "邪", "蜍", "蠩" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [ "署", "暏" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [
+				"敍", "漵", "㵰", "序", "䦽", "㘧", "茅", "杼",
+				"藇", "鱮", "魣", "嶼", "緖", "紓", "墅", "野",
+				"杼", "茅", "桃"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [
+				"餳", "成", "城", "誠", "郕", "盛", "筬"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "velar",
+			"tone": "departing",
+			"chineseCharacter": [ "盛", "晟" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"席", "蓆", "夕", "汐", "穸", "射", "石", "祏",
+				"鼫", "碩"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "alveolar",
+			"tone": "level",
+			"chineseCharacter": [
+				"鋋", "埏", "單", "嬋", "蟬", "蟺", "禪", "嬗",
+				"澶", "儃", "僤"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "alveolar",
+			"tone": "departing",
+			"chineseCharacter": [
+				"羨", "繕", "㪨", "膳", "饍", "善", "鄯", "禪",
+				"䄠", "儃", "嬗", "墠", "樿", "單", "擅"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "alveolar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"善", "嬗", "善", "善", "膳", "饍", "鄯", "單",
+				"僤", "墠", "鱓", "鱣", "䱇", "鱔", "蟺", "熯"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "alveolar",
+			"tone": "entering",
+			"chineseCharacter": [ "舌", "折", "揲", "抴" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "bilabial",
+			"tone": "level",
+			"chineseCharacter": [
+				"爓", "燂", "燖", "煔", "撏", "探", "蟾"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "bilabial",
+			"tone": "departing",
+			"chineseCharacter": [ "贍", "儋", "澹" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "bilabial",
+			"tone": "entering",
+			"chineseCharacter": [ "剡" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yeo",
+			"jongseong": "bilabial",
+			"tone": "entering",
+			"chineseCharacter": [ "涉", "拾", "欇", "聶" ]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yuyeo",
+			"jongseong": "bilabial",
+			"tone": "level",
+			"chineseCharacter": [
+				"旋", "漩", "璿", "旋", "璇", "㻽", "瓊", "還",
+				"睘", "涎", "船", "遄", "篅", "圜", "膞", "輇",
+				"輲"
+			]
+		},
+		{
+			"choseong": "ssangsiot",
+			"jungseong": "yuyeo",
+			"jongseong": "bilabial",
+			"tone": "departing",
+			"chineseCharacter": [ "旋", "還", "漩" ]
 		}
 	]
 }

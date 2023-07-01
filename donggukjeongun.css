@@ -4,10 +4,9 @@ body {
 }
 
 .back {
-	display: flex;
-	width: 64px;
+	display: inline-flex;
 	height: 64px;
-	padding: 16px;
+	width: 64px;
 	border-radius: 32px;
 	transition: all 0.2s ease;
 }
@@ -19,7 +18,8 @@ body {
 }
 
 .back > a {
-	height: 32px;
+	padding: 16px;
+}
 }
 
 .main {
