@@ -3,10 +3,16 @@ body {
 	padding: 16px;
 }
 
+.head {
+	display: flex;
+	height: 64px;
+	align-items: center;
+}
+
 .back {
 	display: inline-flex;
-	height: 64px;
 	width: 64px;
+	height: 64px;
 	border-radius: 32px;
 	transition: all 0.2s ease;
 }
@@ -20,6 +26,12 @@ body {
 .back > a {
 	padding: 16px;
 }
+
+.name {
+	display: inline-block;
+	margin-left: 16px;
+	font-size: x-large;
+	font-weight: bold;
 }
 
 .main {
@@ -71,8 +83,8 @@ input:focus {
 	margin: 16px 16px 16px 2px;
 	font-size: 48px;
 	display: flex;
-    justify-content: space-around;
-    align-items: center;
+	justify-content: space-around;
+	align-items: center;
 }
 
 .descriptiontext {

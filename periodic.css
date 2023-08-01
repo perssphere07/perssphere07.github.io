@@ -3,8 +3,14 @@ body {
 	padding: 16px;
 }
 
-.back {
+.head {
 	display: flex;
+	height: 64px;
+	align-items: center;
+}
+
+.back {
+	display: inline-flex;
 	width: 64px;
 	height: 64px;
 	border-radius: 32px;
@@ -19,6 +25,13 @@ body {
 
 .back > a {
 	padding: 16px;
+}
+
+.name {
+	display: inline-block;
+	margin-left: 16px;
+	font-size: x-large;
+	font-weight: bold;
 }
 
 .main {
