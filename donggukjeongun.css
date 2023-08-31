@@ -92,3 +92,22 @@ input:focus {
 	display: flex;
 	justify-content: space-between;
 }
+
+.descriptiontext > div:last-child {
+	text-align: right;
+}
+
+.descriptiontext > div:last-child > a {
+	color: #9ECAFF;
+	transition: all 0.2s ease;
+}
+
+.descriptiontext > div:last-child > a:hover {
+	color: #D1E4FF;
+	transition: all 0.2s ease;
+}
+
+.descriptiontext > div:last-child > a:active {
+	color: #1E95F2;
+	transition: all 0.2s ease;
+}
