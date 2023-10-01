@@ -77,7 +77,7 @@ function buildHangeul(data, index){
 			else
 				string += "\u11B7";
 			break;
-		case "mieumieung":
+		case "sungyeongeummieum":
 			string += "\u11E2";
 			break;
 	}

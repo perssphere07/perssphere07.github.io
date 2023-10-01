@@ -493,7 +493,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"高", "髙", "膏", "篙", "𥮑", "皐", "睾", "𣽎", "橰", "𣓌",
@@ -503,7 +503,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"誥", "浩", "郜", "告", "高", "膏", "縞"
@@ -512,7 +512,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"杲", "皓", "稾", "菒", "藁", "暠", "皓", "皜", "縞", "笴",
@@ -522,7 +522,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"驍", "澆", "𣻏", "僥", "儌", "憢", "梟", "蟂", "憿", "激",
@@ -534,7 +534,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"叫", "嘄", "嘂", "訆", "噭", "徼", "譥", "驕", "撟", "矯",
@@ -545,7 +545,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"皎", "晈", "皦", "曒", "暞", "繳", "璬", "矯", "撟", "蹻",
@@ -885,7 +885,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"鳩", "䧱", "勼", "九", "𢜥", "捄", "鉤", "𨪋", "鈎", "軥",
@@ -896,7 +896,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"救", "𧧷", "捄", "廐", "灸", "疚", "究", "冓", "構", "購",
@@ -907,7 +907,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"九", "久", "玖", "灸", "韭", "韮", "耈", "笱", "苟", "枸",
@@ -934,7 +934,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"樛", "繆", "糾", "摎", "糾", "艽", "𦫶"
@@ -943,7 +943,7 @@
 		{
 			"choseong": "giyeok",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "糾", "糺", "朻", "赳" ]
 		},
@@ -1545,28 +1545,28 @@
 		{
 			"choseong": "kieuk",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "尻", "𡱧", "𦙷" ]
 		},
 		{
 			"choseong": "kieuk",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "犒", "䐧", "槁", "槀" ]
 		},
 		{
 			"choseong": "kieuk",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "考", "栲", "槀", "槁", "薧", "攷" ]
 		},
 		{
 			"choseong": "kieuk",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"蹺", "蹻", "趬", "𣦜", "趫", "驕", "橇", "鞽", "敲", "摮",
@@ -1854,7 +1854,7 @@
 		{
 			"choseong": "kieuk",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"丘", "𡊣", "坵", "區", "驅", "龜", "彄", "彀", "摳"
@@ -1863,7 +1863,7 @@
 		{
 			"choseong": "kieuk",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"糗", "寇", "滱", "扣", "鷇", "𩀠", "𪄽", "𣫠", "叩", "𧥣",
@@ -1873,7 +1873,7 @@
 		{
 			"choseong": "kieuk",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "entering",
 			"chineseCharacter": [ "糗", "口", "叩", "扣", "敂", "釦" ]
 		},
@@ -1897,7 +1897,7 @@
 		{
 			"choseong": "kieuk",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"樛", "繆", "糾", "摎", "糾", "艽", "𦫶"
@@ -1906,7 +1906,7 @@
 		{
 			"choseong": "kieuk",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "糾", "糺", "朻", "赳" ]
 		},
@@ -2319,7 +2319,7 @@
 		{
 			"choseong": "ssanggiyeok",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"翹", "𦒒", "劭", "招", "荍", "喬", "蕎", "橋", "墧", "嶠",
@@ -2329,7 +2329,7 @@
 		{
 			"choseong": "ssanggiyeok",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "嶠", "㠐", "轎", "橋" ]
 		},
@@ -2458,7 +2458,7 @@
 		{
 			"choseong": "ssanggiyeok",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"求", "球", "璆", "絿", "觩", "觓", "𤙠", "銶", "賕", "俅",
@@ -2469,14 +2469,14 @@
 		{
 			"choseong": "ssanggiyeok",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "舊", "柩", "匛" ]
 		},
 		{
 			"choseong": "ssanggiyeok",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"臼", "舅", "䊆", "咎", "䛮", "麔", "舊", "蟉"
@@ -2501,7 +2501,7 @@
 		{
 			"choseong": "ssanggiyeok",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "虯", "虬", "蟉", "捄" ]
 		},
@@ -2940,7 +2940,7 @@
 		{
 			"choseong": "ngieung",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"敖", "邀", "傲", "熬", "熬", "鰲", "驁", "獒", "螯", "謷",
@@ -2950,7 +2950,7 @@
 		{
 			"choseong": "ngieung",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"傲", "慠", "敖", "㥿", "驁", "謷", "鏊", "㟼"
@@ -2959,7 +2959,7 @@
 		{
 			"choseong": "ngieung",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"鴞", "聱", "嶅", "磝", "磽", "礉", "墽", "謷"
@@ -2968,14 +2968,14 @@
 		{
 			"choseong": "ngieung",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "顤", "澆", "窔", "樂" ]
 		},
 		{
 			"choseong": "ngieung",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "齩", "䶧", "咬" ]
 		},
@@ -3233,7 +3233,7 @@
 		{
 			"choseong": "ngieung",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"尤", "訧", "疣", "蚘", "郵", "卸", "牛", "齵", "腢"
@@ -3242,7 +3242,7 @@
 		{
 			"choseong": "ngieung",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"宥", "侑", "囿", "右", "佑", "祐", "又", "偶"
@@ -3251,7 +3251,7 @@
 		{
 			"choseong": "ngieung",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"有", "右", "佑", "友", "偶", "耦", "喁", "髃", "腢", "藕"
@@ -3786,21 +3786,21 @@
 		{
 			"choseong": "digeut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "刀", "舠", "忉", "魛", "裯" ]
 		},
 		{
 			"choseong": "digeut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "到", "倒", "禱" ]
 		},
 		{
 			"choseong": "digeut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"倒", "禱", "擣", "搗", "搗", "搗", "禂", "䮻", "島", "隝",
@@ -3831,7 +3831,7 @@
 		{
 			"choseong": "digeut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"貂", "䞴", "刀", "凋", "琱", "敦", "彫", "雕", "鵰", "敦",
@@ -3841,7 +3841,7 @@
 		{
 			"choseong": "digeut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"弔", "吊", "釣", "蔦", "罩", "罩", "䍜"
@@ -3850,7 +3850,7 @@
 		{
 			"choseong": "digeut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"鳥", "蔦", "樢", "芍", "䓎", "薂", "䝤", "獠", "㺐"
@@ -4064,14 +4064,14 @@
 		{
 			"choseong": "digeut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "兜" ]
 		},
 		{
 			"choseong": "digeut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "斗", "豆", "㪷", "枓", "蚪", "陡" ]
 		},
@@ -4134,7 +4134,7 @@
 		{
 			"choseong": "digeut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"輈", "侜", "鵃", "調", "啁", "譸", "侜", "嚋", "盩"
@@ -4143,14 +4143,14 @@
 		{
 			"choseong": "digeut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "晝", "咮", "喙", "啄", "注" ]
 		},
 		{
 			"choseong": "digeut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "肘", "䏔" ]
 		},
@@ -4570,7 +4570,7 @@
 		{
 			"choseong": "tieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"饕", "饀", "䬢", "滔", "槄", "幍", "韜", "韜", "慆", "諂",
@@ -4581,7 +4581,7 @@
 		{
 			"choseong": "tieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "討" ]
 		},
@@ -4609,7 +4609,7 @@
 		{
 			"choseong": "tieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"祧", "恌", "窕", "朓", "挑", "眺", "銚", "超"
@@ -4618,7 +4618,7 @@
 		{
 			"choseong": "tieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"糶", "糶", "眺", "趒", "超", "跳", "眺", "頫", "窕", "趠",
@@ -4628,7 +4628,7 @@
 		{
 			"choseong": "tieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "朓", "眺", "覜", "䠷", "窕", "趒" ]
 		},
@@ -4842,21 +4842,21 @@
 		{
 			"choseong": "tieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "偸", "愉", "婾", "鍮", "鋀" ]
 		},
 		{
 			"choseong": "tieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "透" ]
 		},
 		{
 			"choseong": "tieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "妵" ]
 		},
@@ -4900,21 +4900,21 @@
 		{
 			"choseong": "tieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "抽", "妯", "瘳" ]
 		},
 		{
 			"choseong": "tieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "嘼" ]
 		},
 		{
 			"choseong": "tieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "丑", "杻", "鈕" ]
 		},
@@ -5397,7 +5397,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"陶", "淘", "兆", "醄", "綯", "蜪", "騊", "啕", "掏", "裪",
@@ -5408,7 +5408,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"導", "導", "道", "燾", "敦", "濤", "幬", "翿", "纛", "翢",
@@ -5418,7 +5418,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "道", "導", "稻", "纛", "翿", "駣" ]
 		},
@@ -5432,7 +5432,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"迢", "齠", "苕", "髫", "芀", "跳", "佻", "調", "蜩", "樤",
@@ -5442,7 +5442,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"調", "掉", "挑", "嬥", "藋", "蕛", "蓧", "銚", "召", "櫂",
@@ -5452,7 +5452,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"窕", "佻", "㒛", "挑", "掉", "嬥", "趙", "旐", "駣", "絩",
@@ -5701,7 +5701,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"頭", "投", "骰", "揄", "牏", "窬", "㢏"
@@ -5710,7 +5710,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"豆", "梪", "䇺", "荳", "餖", "脰", "逗", "投", "竇", "窬",
@@ -5720,7 +5720,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "鋀", "揄" ]
 		},
@@ -5786,7 +5786,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"儔", "檮", "疇", "幬", "䲖", "籌", "䯾", "稠", "綢", "裯",
@@ -5796,7 +5796,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"胄", "伷", "育", "胄", "䩜", "宙", "紬", "籒", "酎"
@@ -5805,7 +5805,7 @@
 		{
 			"choseong": "ssangdigeut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "紂", "䈙" ]
 		},
@@ -6171,35 +6171,35 @@
 		{
 			"choseong": "nieun",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "猱", "獿", "獶", "蝚", "峱", "臑" ]
 		},
 		{
 			"choseong": "nieun",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "臑" ]
 		},
 		{
 			"choseong": "nieun",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "腦", "瑙", "惱", "憹" ]
 		},
 		{
 			"choseong": "nieun",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "鐃", "譊", "撓", "呶", "詉", "怓" ]
 		},
 		{
 			"choseong": "nieun",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"尿", "溺", "橈", "撓", "鐃", "淖", "鬧"
@@ -6208,7 +6208,7 @@
 		{
 			"choseong": "nieun",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"褭", "梟", "䮍", "㒟", "㜵", "嫋", "嬈", "嬲", "橈", "撓",
@@ -6396,21 +6396,21 @@
 		{
 			"choseong": "nieun",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "䨲", "㝹", "獳" ]
 		},
 		{
 			"choseong": "nieun",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "糅", "狃", "耨", "鎒", "譳", "檽" ]
 		},
 		{
 			"choseong": "nieun",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"紐", "杻", "鈕", "狃", "忸", "觳", "穀", "啂", "豰"
@@ -6775,7 +6775,7 @@
 		{
 			"choseong": "bieup",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"包", "胞", "枹", "苞", "襃", "褒", "裦", "裒"
@@ -6784,14 +6784,14 @@
 		{
 			"choseong": "bieup",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "豹", "爆", "犦", "報" ]
 		},
 		{
 			"choseong": "bieup",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"飽", "寳", "珤", "保", "葆", "堢", "堡", "緥", "䎂", "䳰",
@@ -6801,7 +6801,7 @@
 		{
 			"choseong": "bieup",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"猋", "飇", "颮", "飄", "贆", "標", "燂", "䙳", "摽", "幖",
@@ -6812,7 +6812,7 @@
 		{
 			"choseong": "bieup",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "褾", "裱", "標", "㟽", "表" ]
 		},
@@ -6979,28 +6979,28 @@
 		{
 			"choseong": "bieup",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "鴀", "不", "紑" ]
 		},
 		{
 			"choseong": "bieup",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "富", "富", "鍑" ]
 		},
 		{
 			"choseong": "bieup",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "掊", "缶", "缻", "不", "否" ]
 		},
 		{
 			"choseong": "bieup",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "彪", "髟" ]
 		},
@@ -7349,21 +7349,21 @@
 		{
 			"choseong": "pieup",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "胞", "泡", "脬", "抛", "摽", "抱" ]
 		},
 		{
 			"choseong": "pieup",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "砲", "抛", "窌" ]
 		},
 		{
 			"choseong": "pieup",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"漂", "僄", "嫖", "慓", "飄", "嘌", "翲", "彯", "剽"
@@ -7372,7 +7372,7 @@
 		{
 			"choseong": "pieup",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"勡", "剽", "彯", "漂", "僄", "嫖", "慓", "票", "摽"
@@ -7381,7 +7381,7 @@
 		{
 			"choseong": "pieup",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"縹", "瞟", "瞫", "醥", "膘", "蔈", "剽", "藨", "苞", "炰"
@@ -7540,28 +7540,28 @@
 		{
 			"choseong": "pieup",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "浮" ]
 		},
 		{
 			"choseong": "pieup",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "副", "㽬", "福", "覆", "仆" ]
 		},
 		{
 			"choseong": "pieup",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "剖", "部", "掊", "秠" ]
 		},
 		{
 			"choseong": "pieup",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "秠" ]
 		},
@@ -7887,7 +7887,7 @@
 		{
 			"choseong": "ssangbieup",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"庖", "炮", "炰", "咆", "匏", "瓟", "包", "苞", "鞄", "胞",
@@ -7897,7 +7897,7 @@
 		{
 			"choseong": "ssangbieup",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"皰", "胞", "靤", "䶌", "庖", "鉋", "暴", "瀑", "䤖", "袍",
@@ -7907,28 +7907,28 @@
 		{
 			"choseong": "ssangbieup",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "鮑", "鞄", "抱" ]
 		},
 		{
 			"choseong": "ssangbieup",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "瓢", "剽", "薸", "䕯" ]
 		},
 		{
 			"choseong": "ssangbieup",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "驃", "票" ]
 		},
 		{
 			"choseong": "ssangbieup",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "摽", "慓", "蔈", "莩", "殍" ]
 		},
@@ -8093,7 +8093,7 @@
 		{
 			"choseong": "ssangbieup",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"抔", "枹", "㧵", "裒", "褒", "掊", "棓", "浮", "桴", "烰",
@@ -8103,14 +8103,14 @@
 		{
 			"choseong": "ssangbieup",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "復", "複", "覆", "伏" ]
 		},
 		{
 			"choseong": "ssangbieup",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"部", "蔀", "培", "㟝", "垺", "䏽", "瓿", "䍌", "婦", "媍",
@@ -8120,7 +8120,7 @@
 		{
 			"choseong": "ssangbieup",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "滮" ]
 		},
@@ -8544,7 +8544,7 @@
 		{
 			"choseong": "mieum",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"茅", "罞", "蝥", "猫", "猫", "媌", "犛", "毛", "㲝", "旄",
@@ -8554,7 +8554,7 @@
 		{
 			"choseong": "mieum",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"貌", "貌", "帽", "瑁", "媢", "冒", "耄", "芼", "眊", "毣",
@@ -8563,28 +8563,28 @@
 		{
 			"choseong": "mieum",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "卯", "昴", "茆" ]
 		},
 		{
 			"choseong": "mieum",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "苗", "描", "猫", "猫", "緢" ]
 		},
 		{
 			"choseong": "mieum",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "廟", "妙", "眇", "篎" ]
 		},
 		{
 			"choseong": "mieum",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"眇", "渺", "篎", "緲", "杪", "秒", "淼", "藐"
@@ -8757,7 +8757,7 @@
 		{
 			"choseong": "mieum",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"謀", "𢜯", "㖼", "矛", "𢦧", "𨥨", "蟊", "蝥", "𧓿", "雺",
@@ -8768,7 +8768,7 @@
 		{
 			"choseong": "mieum",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"戊", "茂", "楙", "懋", "瞀", "霧", "愗", "敄", "袤", "貿",
@@ -8778,7 +8778,7 @@
 		{
 			"choseong": "mieum",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"母", "拇", "䳇", "畝", "畝", "厶", "某", "牡", "茂"
@@ -8787,14 +8787,14 @@
 		{
 			"choseong": "mieum",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "繆" ]
 		},
 		{
 			"choseong": "mieum",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "謬", "嘐", "繆" ]
 		},
@@ -9384,21 +9384,21 @@
 		{
 			"choseong": "jieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "糟", "醩", "遭" ]
 		},
 		{
 			"choseong": "jieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "竈", "竈", "窖", "躁", "趮" ]
 		},
 		{
 			"choseong": "jieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"早", "藻", "澡", "璪", "繰", "繅", "璅", "棗", "䖣", "䗢"
@@ -9438,7 +9438,7 @@
 		{
 			"choseong": "jieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"焦", "焦", "鐎", "燋", "噍", "嶕", "嶣", "膲", "僬", "鷦",
@@ -9448,7 +9448,7 @@
 		{
 			"choseong": "jieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"醮", "樵", "燋", "僬", "趭", "癄", "釂", "燞", "㩱", "爝",
@@ -9458,7 +9458,7 @@
 		{
 			"choseong": "jieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"樔", "勦", "漅", "巢", "湫", "沼", "昭", "爪", "笊", "㕚",
@@ -9689,7 +9689,7 @@
 		{
 			"choseong": "jieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"諏", "陬", "掫", "緅", "鯫", "租", "鄒", "騶", "緅", "棸",
@@ -9699,14 +9699,14 @@
 		{
 			"choseong": "jieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "奏", "走", "縐", "皺", "甃" ]
 		},
 		{
 			"choseong": "jieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "走", "掫", "趣" ]
 		},
@@ -9801,7 +9801,7 @@
 		{
 			"choseong": "jieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"揫", "愁", "湫", "湬", "啾", "酋", "噍", "周", "輖", "賙",
@@ -9811,14 +9811,14 @@
 		{
 			"choseong": "jieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "僦", "祝", "呪", "詋", "詶" ]
 		},
 		{
 			"choseong": "jieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "酒", "帚", "鯞" ]
 		},
@@ -10368,21 +10368,21 @@
 		{
 			"choseong": "chieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "操" ]
 		},
 		{
 			"choseong": "chieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "操", "鄵", "造", "艁", "糙", "糙" ]
 		},
 		{
 			"choseong": "chieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "草", "屮", "懆" ]
 		},
@@ -10409,7 +10409,7 @@
 		{
 			"choseong": "chieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"鍬", "銚", "鐰", "鍫", "篍", "幧", "㡑", "怊",
@@ -10419,7 +10419,7 @@
 		{
 			"choseong": "chieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"峭", "峭", "㴥", "哨", "悄", "俏", "篍", "鈔",
@@ -10429,7 +10429,7 @@
 		{
 			"choseong": "chieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"悄", "愀", "愁", "麨", "煼", "炒", "㷅", "謅"
@@ -10666,14 +10666,14 @@
 		{
 			"choseong": "chieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "搊", "篘" ]
 		},
 		{
 			"choseong": "chieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"湊", "輳", "奏", "楱", "腠", "蔟", "族"
@@ -10682,7 +10682,7 @@
 		{
 			"choseong": "chieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "趣", "趨", "鯫", "取" ]
 		},
@@ -10750,7 +10750,7 @@
 		{
 			"choseong": "chieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"秋", "楸", "橚", "萩", "篍", "鶖", "緧", "䋺",
@@ -10760,7 +10760,7 @@
 		{
 			"choseong": "chieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "醜", "魗" ]
 		},
@@ -11173,7 +11173,7 @@
 		{
 			"choseong": "ssangjieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"曹", "漕", "嶆", "艚", "螬", "蝤", "槽", "嘈"
@@ -11182,14 +11182,14 @@
 		{
 			"choseong": "ssangjieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "漕" ]
 		},
 		{
 			"choseong": "ssangjieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "皁", "造", "艁" ]
 		},
@@ -11210,7 +11210,7 @@
 		{
 			"choseong": "ssangjieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"樵", "穛", "譙", "憔", "顦", "嫶", "癄", "焦",
@@ -11220,7 +11220,7 @@
 		{
 			"choseong": "ssangjieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "噍", "嚼", "譙", "誚" ]
 		},
@@ -11443,7 +11443,7 @@
 		{
 			"choseong": "ssangjieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "驟", "騶", "僽" ]
 		},
@@ -11471,14 +11471,14 @@
 		{
 			"choseong": "ssangjieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "酋", "醔", "蝤", "遒" ]
 		},
 		{
 			"choseong": "ssangjieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "就", "鷲", "鷲" ]
 		},
@@ -12109,7 +12109,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"騷", "搔", "搔", "𢸪", "溞", "慅", "懆", "颾",
@@ -12120,7 +12120,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"噪", "𠹏", "譟", "燥", "埽", "掃", "瘙"
@@ -12129,7 +12129,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "掃", "騷", "嫂", "燥" ]
 		},
@@ -12163,7 +12163,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"蕭", "簫", "箾", "瀟", "潚", "彇", "蟰", "蠨",
@@ -12177,7 +12177,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"嘯", "歗", "笑", "咲", "關", "肖", "宵", "俏",
@@ -12187,7 +12187,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "篠", "小", "少", "稍", "搜" ]
 		},
@@ -12472,7 +12472,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"涑", "漱", "鎪", "叟", "搜", "鎪", "溲", "深",
@@ -12483,7 +12483,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"漱", "嗽", "瘶", "欶", "嗾", "謏", "瘦", "膄"
@@ -12492,7 +12492,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"叟", "傁", "䏂", "藪", "掫", "蓃", "籔", "䈹",
@@ -12544,7 +12544,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"修", "修", "修", "羞", "饈", "䐰", "收"
@@ -12553,7 +12553,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"秀", "琇", "繡", "宿", "狩", "守", "獸", "首",
@@ -12563,7 +12563,7 @@
 		{
 			"choseong": "siot",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"滫", "糔", "溲", "詠", "首", "守", "狩", "手"
@@ -12954,7 +12954,7 @@
 		{
 			"choseong": "ssangsiot",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "巢", "巢", "轈", "輠", "漅" ]
 		},
@@ -12985,21 +12985,21 @@
 		{
 			"choseong": "ssangsiot",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "韶", "招", "昭", "巶", "苕", "詔" ]
 		},
 		{
 			"choseong": "ssangsiot",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "邵", "召", "邵", "劭", "紹" ]
 		},
 		{
 			"choseong": "ssangsiot",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "紹", "佋", "袑" ]
 		},
@@ -13100,7 +13100,7 @@
 		{
 			"choseong": "ssangsiot",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "愁" ]
 		},
@@ -13179,7 +13179,7 @@
 		{
 			"choseong": "ssangsiot",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"囚", "游", "游", "湭", "慒", "湭", "讎", "售",
@@ -13189,7 +13189,7 @@
 		{
 			"choseong": "ssangsiot",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"岫", "䜬", "袖", "褎", "授", "綬", "壽", "售",
@@ -13199,7 +13199,7 @@
 		{
 			"choseong": "ssangsiot",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "受", "授", "綬", "壽" ]
 		},
@@ -13759,28 +13759,28 @@
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "䥝", "鏖", "穮" ]
 		},
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "奧", "墺", "澳", "隩", "燠", "懊" ]
 		},
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "媼", "懊", "㤇", "襖", "夭", "䴠" ]
 		},
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"幺", "么", "怮", "宎", "腰", "要", "葽", "喓",
@@ -13791,7 +13791,7 @@
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"要", "約", "穾", "宎", "窔", "窈", "拗", "靿",
@@ -13801,7 +13801,7 @@
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"杳", "窔", "穾", "窅", "窈", "眑", "夭", "殀",
@@ -14102,7 +14102,7 @@
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"熅", "昷", "馧", "轀", "縕", "蘊", "氳"
@@ -14111,7 +14111,7 @@
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"醖", "溫", "慍", "縕", "熅", "蘊", "薀"
@@ -14120,7 +14120,7 @@
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [
 				"惲", "蘊", "菀", "苑", "宛", "怨", "蘊", "韞",
@@ -14137,21 +14137,21 @@
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "幽", "呦", "怮" ]
 		},
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "幼" ]
 		},
 		{
 			"choseong": "yeorinhieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "黝", "幽", "岰", "泑", "怮", "眑" ]
 		},
@@ -14739,28 +14739,28 @@
 		{
 			"choseong": "hieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [ "蒿", "薅", "鎒", "茠", "薃", "撓" ]
 		},
 		{
 			"choseong": "hieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "耗", "好", "藃" ]
 		},
 		{
 			"choseong": "hieut",
 			"jungseong": "oo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "好" ]
 		},
 		{
 			"choseong": "hieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"囂", "嚻", "䖀", "枵", "呺", "歊", "熇", "燆",
@@ -14772,14 +14772,14 @@
 		{
 			"choseong": "hieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "歊", "膮", "孝", "嗃" ]
 		},
 		{
 			"choseong": "hieut",
 			"jungseong": "yo",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "曉" ]
 		},
@@ -15045,7 +15045,7 @@
 		{
 			"choseong": "hieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [
 				"詬", "訽", "怐", "佝", "蔲", "鱟", "吼"
@@ -15054,7 +15054,7 @@
 		{
 			"choseong": "hieut",
 			"jungseong": "uu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "吼", "呴", "吽" ]
 		},
@@ -15099,7 +15099,7 @@
 		{
 			"choseong": "hieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "level",
 			"chineseCharacter": [
 				"休", "庥", "茠", "烋", "髹", "髤", "貅", "咻",
@@ -15109,14 +15109,14 @@
 		{
 			"choseong": "hieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "departing",
 			"chineseCharacter": [ "齅", "嗅", "臭", "獸", "畜" ]
 		},
 		{
 			"choseong": "hieut",
 			"jungseong": "yu",
-			"jongseong": "mieumieung",
+			"jongseong": "sungyeongeummieum",
 			"tone": "rising",
 			"chineseCharacter": [ "朽" ]
 		},
@@ -15329,6 +15329,839 @@
 			"jongseong": "alveolar",
 			"tone": "entering",
 			"chineseCharacter": [ "血", "泬", "烕", "吷", "決" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "eu",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [ "恆" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "eu",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [ "劾" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "eu",
+			"jongseong": "alveolar",
+			"tone": "level",
+			"chineseCharacter": [ "痕", "鞎", "拫" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "eu",
+			"jongseong": "alveolar",
+			"tone": "departing",
+			"chineseCharacter": [ "恨" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "eu",
+			"jongseong": "alveolar",
+			"tone": "rising",
+			"chineseCharacter": [ "很" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "ii",
+			"jongseong": "alveolar",
+			"tone": "level",
+			"chineseCharacter": [ "礥" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "araeai",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [ "孩", "孩", "頦" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "araeai",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [ "瀣", "劾" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "araeai",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [ "亥", "侅", "劾" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "araeai",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [
+				"行", "珩", "桁", "衡", "蘅", "莖", "䪫"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "araeai",
+			"jongseong": "velar",
+			"tone": "departing",
+			"chineseCharacter": [ "行" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "araeai",
+			"jongseong": "velar",
+			"tone": "rising",
+			"chineseCharacter": [
+				"杏", "荇", "䓷", "幸", "倖", "婞", "行"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "araeai",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"格", "輅", "覈", "礉", "翮", "核", "槅"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oe",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"回", "廻", "茴", "洄", "徊", "瑰", "槐", "瘣"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oe",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"會", "禬", "繪", "䙡", "璯", "潰", "繪", "繪",
+				"䜋", "聵", "瞶", "闠", "回", "匯", "䔇"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oe",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [ "瘣", "壞", "廆", "匯", "滙", "回" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oe",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [
+				"橫", "衡", "鐄", "璜", "䬝", "黌", "彋", "瑝",
+				"喤", "鍠", "蝗", "揘", "宏", "䆖", "紘", "紭",
+				"鈜", "吰", "竑", "𨌆", "耾", "𦕹", "翃", "𦐌",
+				"𧮯", "谹", "閎", "䍔", "宖", "嶸", "巆", "嵤",
+				"峵", "𡵓", "弘", "苰", "鞃", "䡌"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oe",
+			"jongseong": "velar",
+			"tone": "departing",
+			"chineseCharacter": ["橫", "蝗"]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oe",
+			"jongseong": "velar",
+			"tone": "rising",
+			"chineseCharacter": [ "卝" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oe",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"畫", "㗲", "咟", "嫿", "獲", "或", "惑", "掝",
+				"蜮"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "ae",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"諧", "湝", "骸", "膎", "鞵", "鞋", "鮭"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "ae",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"害", "妎", "邂", "解", "械", "薤", "瀣", "齘"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "ae",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [
+				"蟹", "蟹", "獬", "鮭", "嶰", "澥", "解", "駭",
+				"絯", "豥", "駴", "夥"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wae",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"懷", "櫰", "槐", "褢", "淮"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wae",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"壞", "畵", "罫", "繣", "澅", "絓", "話", "躗",
+				"吳"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "ye",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"兮", "奚", "㜎", "傒", "蹊", "騱", "貕", "豀",
+				"謑", "鼷", "嵇"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "ye",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"系", "繫", "係", "結", "禊", "妎", "盻"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "ye",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [
+				"徯", "諐", "蹊", "傒", "謑", "謑", "奚"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yuye",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"攜", "携", "携", "觿", "鑴", "蠵", "酅", "巂",
+				"畦"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yuye",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [ "慧", "轊", "惠", "蕙", "譓", "憓" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"胡", "箶", "湖", "瑚", "餬", "䭌", "醐", "糊",
+				"粘", "䉿", "鶘", "乎", "虖", "壷", "弧", "狐",
+				"瓠", "葫"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"護", "濩", "頀", "䪝", "穫", "互", "枑", "冱",
+				"瓠", "嫮", "嫭", "涸"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [
+				"戶", "昈", "雇", "扈", "怙", "岵", "祜", "酤",
+				"楛", "鄠", "下", "芐", "芦", "嫭", "嫮", "橭"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [
+				"洪", "葓", "葒", "烘", "谼", "鉷", "紅", "虹",
+				"訌", "鴻", "洚", "䃔"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "velar",
+			"tone": "departing",
+			"chineseCharacter": [ "哄", "閧", "洚" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "velar",
+			"tone": "rising",
+			"chineseCharacter": [ "鴻" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"縠", "螜", "觳", "斛", "㪶", "槲", "鵠", "䶜",
+				"䚛", "翯"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "alveolar",
+			"tone": "level",
+			"chineseCharacter": [
+				"䰟", "魂", "沄", "渾", "煇", "緷", "昆", "緄",
+				"溷"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "alveolar",
+			"tone": "departing",
+			"chineseCharacter": [ "慁", "㥵", "溷" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "alveolar",
+			"tone": "rising",
+			"chineseCharacter": [
+				"混", "渾", "倱", "棍", "掍", "焜", "煇", "輥",
+				"緷"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "alveolar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"麧", "籺", "覈", "齕", "紇", "搰", "鶻", "鴙",
+				"滑", "淈", "核", "汨"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "sungyeongeummieum",
+			"tone": "level",
+			"chineseCharacter": [
+				"豪", "濠", "壕", "㠙", "崤", "蠔", "毫", "號",
+				"諕", "譹", "皐", "唬", "號", "嘷"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "sungyeongeummieum",
+			"tone": "departing",
+			"chineseCharacter": [ "號", "皐", "號" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "oo",
+			"jongseong": "sungyeongeummieum",
+			"tone": "rising",
+			"chineseCharacter": [
+				"晧", "浩", "浩", "昊", "顥", "晧", "皥", "暠",
+				"䯫", "皜", "灝", "皥", "鎬", "鰝", "滈", "薃",
+				"鄗"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yo",
+			"jongseong": "sungyeongeummieum",
+			"tone": "level",
+			"chineseCharacter": [
+				"爻", "肴", "餚", "殽", "筊", "茭", "絞", "洨"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yo",
+			"jongseong": "sungyeongeummieum",
+			"tone": "departing",
+			"chineseCharacter": [
+				"效", "傚", "殽", "㕛", "效", "佼", "校", "恔",
+				"斆", "學"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yo",
+			"jongseong": "sungyeongeummieum",
+			"tone": "rising",
+			"chineseCharacter": [ "皛", "㵿", "芍", "趙" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"何", "荷", "河", "苛", "遐", "徦", "假", "蕸",
+				"霞", "瑕", "鍜", "碬", "蝦", "鰕", "騢", "假",
+				"赮"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"賀", "荷", "何", "暇", "假", "嘉", "下", "芐",
+				"夏"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [
+				"荷", "何", "抲", "苛", "下", "夏", "廈"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [
+				"降", "洚", "缸", "瓨", "缻", "虹", "斻", "航",
+				"桁", "吭", "頑", "亢", "杭", "頑", "䀪", "䲳",
+				"行", "桁"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "velar",
+			"tone": "departing",
+			"chineseCharacter": [
+				"巷", "衖", "閧", "閧", "吭", "肮", "頑", "亢",
+				"笐", "桁", "沆", "行"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "velar",
+			"tone": "rising",
+			"chineseCharacter": [
+				"項", "缿", "沆", "魧", "吭", "頏"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"學", "澩", "㶅", "嶨", "㙾", "埆", "鷽", "雤",
+				"翯", "鶴", "㿥", "确", "觳", "鶴", "鸖", "鶮",
+				"鶡", "鴳", "皬", "皠", "挌", "格", "貉", "狢",
+				"涸", "沍"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "alveolar",
+			"tone": "level",
+			"chineseCharacter": [
+				"寒", "韓", "榦", "幹", "翰", "䮧", "豻", "犴",
+				"汗", "䢴", "邯", "閑", "閒", "嫺", "嫻", "憪",
+				"瞯", "癇", "嫺", "痫", "鷴"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "alveolar",
+			"tone": "departing",
+			"chineseCharacter": [
+				"翰", "瀚", "澣", "扞", "捍", "干", "釬", "銲",
+				"汗", "閈", "旱", "駻", "悍", "垾", "莧", "骭"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "alveolar",
+			"tone": "rising",
+			"chineseCharacter": [
+				"旱", "悍", "限", "䦘", "僩", "憪", "撊"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "alveolar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"曷", "害", "褐", "鞨", "毼", "鶡", "䳚", "轄",
+				"螛", "黠", "舝", "轄", "鎋", "磍", "䦖", "䦪"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "bilabial",
+			"tone": "level",
+			"chineseCharacter": [
+				"含", "唅", "函", "椷", "涵", "汵", "䤴", "酣",
+				"佄", "甘", "邯", "甝", "咸", "諴", "鹹", "函",
+				"㮀", "䤴", "崡", "銜", "嗛", "咁"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "bilabial",
+			"tone": "departing",
+			"chineseCharacter": [
+				"憾", "感", "琀", "含", "唅", "莟", "陷", "埳",
+				"臽", "㽉", "鑑", "闞", "濫"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "bilabial",
+			"tone": "rising",
+			"chineseCharacter": [
+				"頷", "圅", "顄", "菡", "憾", "感", "撼", "豏",
+				"㺌", "喊", "檻", "轞", "艦", "濫"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "aa",
+			"jongseong": "bilabial",
+			"tone": "entering",
+			"chineseCharacter": [
+				"合", "䢔", "郃", "洽", "盍", "蓋", "嗑", "䛅",
+				"闔", "蓋", "洽", "祫", "陜", "陿", "峽", "狹",
+				"硤", "狎", "押", "柙", "匣"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wa",
+			"jongseong": "none",
+			"tone": "level",
+			"chineseCharacter": [
+				"和", "龢", "鉌", "禾", "華", "崋", "譁", "嘩",
+				"驊", "鋘", "釫", "鏵"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wa",
+			"jongseong": "none",
+			"tone": "departing",
+			"chineseCharacter": [
+				"和", "華", "樺", "檴", "嬅", "摦", "擭", "獲",
+				"鱯", "㕦"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wa",
+			"jongseong": "none",
+			"tone": "rising",
+			"chineseCharacter": [
+				"禍", "輠", "夥", "髁", "踝", "裸", "裸", "觟"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wa",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [
+				"黃", "簧", "潢", "璜", "皇", "凰", "䳨", "篁",
+				"餭", "煌", "堭", "墴", "瑝", "鍠", "韹", "隍",
+				"湟", "艎", "騜", "䮲", "蝗", "喤", "惶", "徨",
+				"遑", "偟", "䍿"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wa",
+			"jongseong": "velar",
+			"tone": "rising",
+			"chineseCharacter": [
+				"晃", "爌", "煌", "熿", "兤", "皩", "幌", "榥",
+				"滉", "潢", "洸", "瀇"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wa",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"穫", "耯", "劐", "鑊", "濩", "擭"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wa",
+			"jongseong": "alveolar",
+			"tone": "level",
+			"chineseCharacter": [
+				"桓", "峘", "洹", "絙", "貆", "荁", "完", "綄",
+				"捖", "丸", "芃", "汍", "紈", "䴟", "萑", "萑",
+				"瓛", "豲", "獂", "還", "寰", "環", "鐶", "澴",
+				"轘", "闤", "鬟", "圜", "䴉", "鍰", "患", "湲"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wa",
+			"jongseong": "alveolar",
+			"tone": "departing",
+			"chineseCharacter": [
+				"換", "逭", "䠉", "患", "擐", "轘", "環", "還",
+				"豢", "圂", "㹖", "弮", "絭", "宦", "倌", "幻",
+				"眩"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wa",
+			"jongseong": "alveolar",
+			"tone": "rising",
+			"chineseCharacter": [
+				"緩", "䁔", "澣", "浣", "捖", "晥", "梡", "漶",
+				"睅", "晥", "皖", "鋎", "莞", "攌"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "wa",
+			"jongseong": "alveolar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"活", "佸", "括", "佸", "越", "滑", "猾", "獪",
+				"螖"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "uu",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [ "雄", "熊", "能" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "uu",
+			"jongseong": "sungyeongeummieum",
+			"tone": "level",
+			"chineseCharacter": [
+				"侯", "帿", "篌", "翭", "翵", "喉", "餱", "餱",
+				"鍭", "猴"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "uu",
+			"jongseong": "sungyeongeummieum",
+			"tone": "departing",
+			"chineseCharacter": [
+				"候", "堠", "鍭", "翭", "后", "逅", "詬", "郈",
+				"後"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "uu",
+			"jongseong": "sungyeongeummieum",
+			"tone": "rising",
+			"chineseCharacter": [
+				"厚", "后", "詬", "訽", "郈", "後"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [
+				"形", "郉", "刑", "侀", "鉶", "䤯", "型", "硎",
+				"鈃", "㼛", "陘", "娙"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "velar",
+			"tone": "departing",
+			"chineseCharacter": [ "脛", "踁" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "velar",
+			"tone": "rising",
+			"chineseCharacter": [ "悻", "涬", "涬", "脛", "踁" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "velar",
+			"tone": "entering",
+			"chineseCharacter": [ "檄", "獥", "薂", "覡", "擊" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "alveolar",
+			"tone": "level",
+			"chineseCharacter": [
+				"賢", "礥", "弦", "誸", "絃", "舷", "蚿", "胘"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "alveolar",
+			"tone": "departing",
+			"chineseCharacter": [ "見", "莧" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "alveolar",
+			"tone": "rising",
+			"chineseCharacter": [ "峴", "晛", "睍", "俔" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "alveolar",
+			"tone": "entering",
+			"chineseCharacter": [
+				"纈", "襭", "擷", "頡", "翓", "緳", "絜", "揳",
+				"奊"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "bilabial",
+			"tone": "level",
+			"chineseCharacter": [ "嫌", "慊", "謙" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "bilabial",
+			"tone": "rising",
+			"chineseCharacter": [ "鼸" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yeo",
+			"jongseong": "bilabial",
+			"tone": "entering",
+			"chineseCharacter": [ "協", "汁", "挾", "俠", "夾", "綊" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yuyeo",
+			"jongseong": "velar",
+			"tone": "level",
+			"chineseCharacter": [
+				"熒", "螢", "熒", "滎", "嵤", "巆", "濙"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yuyeo",
+			"jongseong": "velar",
+			"tone": "rising",
+			"chineseCharacter": [ "迥", "泂", "炯" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yuyeo",
+			"jongseong": "alveolar",
+			"tone": "level",
+			"chineseCharacter": [ "玄", "泫", "眩", "縣" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yuyeo",
+			"jongseong": "alveolar",
+			"tone": "departing",
+			"chineseCharacter": [
+				"縣", "眩", "玄", "炫", "玹", "袨", "䘩", "䝮",
+				"衒"
+			]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yuyeo",
+			"jongseong": "alveolar",
+			"tone": "rising",
+			"chineseCharacter": [ "泫", "鉉", "鞙", "琄", "繯" ]
+		},
+		{
+			"choseong": "ssanghieut",
+			"jungseong": "yuyeo",
+			"jongseong": "alveolar",
+			"tone": "entering",
+			"chineseCharacter": [ "穴" ]
 		}
 	]
 }
